@@ -1,0 +1,10 @@
+<svg width="1646" height="1646" viewBox="0 0 1646 1646" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle opacity="0.2" cx="823.001" cy="823.001" r="453.5" stroke="#A08CCB"/>
+<path opacity="0.2" d="M395.01 431.563C423.445 400.473 455.183 372.574 489.661 348.36" stroke="#A08CCB" stroke-width="4" stroke-dasharray="1 6"/>
+<path opacity="0.2" d="M335.208 1136.78C312.415 1101.35 293.55 1063.54 278.948 1024.01" stroke="#A08CCB" stroke-width="4" stroke-dasharray="1 6"/>
+<path opacity="0.5" d="M1329 823.001C1329 889.449 1315.91 955.248 1290.48 1016.64C1265.06 1078.03 1227.78 1133.81 1180.8 1180.8C1133.81 1227.78 1078.03 1265.05 1016.64 1290.48C955.248 1315.91 889.45 1329 823.001 1329" stroke="#A08CCB" stroke-width="4" stroke-dasharray="1 9"/>
+<circle opacity="0.3" cx="823.001" cy="823.001" r="400.5" stroke="#A08CCB" stroke-dasharray="3 12"/>
+<path opacity="0.2" d="M476.591 1023L823.001 423.001L1169.41 1023L476.591 1023Z" stroke="#A08CCB"/>
+<path opacity="0.2" d="M353.001 611.001L837.001 805.001" stroke="#A08CCB" stroke-dasharray="1 6"/>
+<circle opacity="0.5" cx="823.001" cy="823.001" r="346.5" stroke="#5A4E72" stroke-dasharray="3 6"/>
+</svg>
