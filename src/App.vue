@@ -75,8 +75,14 @@
           </div>
         </div>
         <div class="slide2 w-screen h-screen relative">
-          <div class="bg-2 absolute w-screen h-screen -left-6 -top-8">
+          <div class="bg-2 absolute w-screen h-screen -left-6 -top-8 ">
             <img src="./assets/img/slide2/ratio.svg" alt="">
+          </div>
+          <div class="link-to-3 absolute "
+               style="width: 22%;"
+               :style="currentSlide === 1 ? 'top: 46rem;' : 'top: 27.313rem;'"
+               :class="currentSlide === 1 ? 'right-72' : 'right-80'">
+            <img src="./assets/img/slide2/2-3.svg" alt="">
           </div>
           <div class="subslide-controlers absolute left-20 top-72 flex flex-col items-center w-20" >
             <div class="border subslide-controler relative mb-12"
@@ -419,7 +425,7 @@ export default {
       opacity: 100%;
     }
   }
-  .wrapper, .main-bg, .link-to-2 {
+  .wrapper, .main-bg, .link-to-2, .link-to-3 {
     transition: all 1s linear;
   }
   .subslide-controler, .sub-slide-marker{
