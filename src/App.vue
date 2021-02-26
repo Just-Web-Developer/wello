@@ -192,8 +192,8 @@
 
                   </div>
                 </div>
-                <input type="text" class="modal input border-0 border-b border-white bg-transparent block my-12 w-7/12 py-4  girloy text-white"  v-model="modal.name">
-                <input type="email" class="modal input border-0 border-b border-white bg-transparent block mb-12 w-7/12 py-4 girloy text-white"  v-model="modal.email">
+                <input type="text" class="modal input border-0 border-b border-white bg-transparent block my-12 w-7/12 py-4  girloy text-white shadow-none"  v-model="modal.name">
+                <input type="email" class="modal input border-0 border-b border-white bg-transparent block mb-12 w-7/12 py-4 girloy text-white shadow-none"  v-model="modal.email">
                 <button class="transition duration-1000 flex items-center h-20 bg-white modal-send" type="submit">
                     <p class=" uppercase text-sm girloy mx-12">submit</p>
                     <svg class="mr-8"  width="55" height="14" viewBox="0 0 55 14" fill="rgba(129,150,180,1)" xmlns="http://www.w3.org/2000/svg">
