@@ -333,7 +333,7 @@ export default {
       this.subSlide[subslide] = value
     },
     getTime: function () {
-      const requestURL = 'http://worldtimeapi.org/api/timezone/Europe/Kiev.json'
+      const requestURL = 'https://worldtimeapi.org/api/timezone/Europe/Kiev.json'
       const request = new XMLHttpRequest()
       request.open('GET', requestURL)
       request.responseType = 'json'
