@@ -78,7 +78,6 @@ export default {
           this.currentGradIndex -= 1
           this.direction = -1
         }
-        console.log(this.gradColors.length)
         this.getDifference()
         const changeGradientValues = () => {
           if (this.bufferGrad.first[0] - this.gradColors[this.currentGradIndex].first[0] < 1 && this.bufferGrad.first[0] - this.gradColors[this.currentGradIndex].first[0] > -1) {
